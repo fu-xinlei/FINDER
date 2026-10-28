@@ -15,7 +15,7 @@ Dependency details: [ENVIRONMENT.md](ENVIRONMENT.md).
 
 ## Data
 
-Place these files in `../data/inputs/finder/`, relative to this code repository:
+Download [FINDER_main_model_data.zip](https://zenodo.org/records/23715775) from Zenodo and extract it next to the code repository. The archive creates `../data/inputs/finder/`, containing:
 
 - `hetero_graph.pt`
 - `all_data_pos_neg_post_replacement_8.pt`
